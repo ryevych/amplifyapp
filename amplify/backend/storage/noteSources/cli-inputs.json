@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteSources",
+  "policyUUID": "df43c428",
+  "bucketName": "notesourcebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
